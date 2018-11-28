@@ -3,7 +3,8 @@ MicroHAM Micro Keyer MK2 Settings for the usage on DX Contest.
 
 ## Instalation
 From the Router Tab,
-* Click Restore Backup Settings (or anything most resembles that)
+* Open microHAM USB Device Router
+* Click Restore Backup Settings (or anything which most resembles that)
 * Choose the "CQWW - CW - Settings.urs"
 * then OK.
 
