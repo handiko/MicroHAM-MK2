@@ -15,3 +15,4 @@ The settings shouldbe loaded successfully.
 ![alt text](https://github.com/handiko/MicroHAM-MK2/blob/master/set2.png)
 
 ...
+Handiko - 2018
