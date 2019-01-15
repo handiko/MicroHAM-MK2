@@ -10,9 +10,9 @@ From the Router Tab,
 
 The settings shouldbe loaded successfully.
 
-## Few Examples of the Settings
-![alt text](https://github.com/handiko/MicroHAM-MK2/blob/master/set1.png)
-![alt text](https://github.com/handiko/MicroHAM-MK2/blob/master/set2.png)
+## Example of the Settings
+![](./set1.png)
+![](./set2.png)
 
 ...
 Handiko - 2018
